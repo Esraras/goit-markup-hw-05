@@ -568,7 +568,7 @@ ul,p{
     line-height: 1.16667;
     color: #8e8f99;
 }
-.input-checkbox {
+.input-checkbox:checked {
     display: none;
 }
 .span-privacy{
